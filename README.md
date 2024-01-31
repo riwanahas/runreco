@@ -1,6 +1,6 @@
 # Music Running Recommender
 
-The objective of this repository is to serve as a template for machine learning projects.
+Music Recommender for runners who want their music in sync with their tempo.
 
 ## Structure
 
