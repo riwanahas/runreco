@@ -16,7 +16,7 @@ with open("spotify_reco_by_mood_and_pace/access_token.txt") as file:
 # 19tf1og71pOYoYOdqyozs2 sarah chen
 # 4QQgXkCYTt3BlENzhyNETg earth wind and fire
 # 6eUKZXaKkcviH0Ku9w2n3V edsheeran
-def get_tracks_by_mood_and_pace(ppm=120):
+def get_tracks_by_mood_and_pace(ppm):
     try:
 
         url = "https://api.spotify.com/v1/recommendations"

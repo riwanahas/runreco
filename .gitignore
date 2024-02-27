@@ -1,3 +1,6 @@
+#dataset
+*.h5
+
 #Spotify credentials
 access_token.txt
 client_secret.txt
